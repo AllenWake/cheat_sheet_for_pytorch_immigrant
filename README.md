@@ -30,4 +30,7 @@ net.load_state_dict(weights, strict=False)
 
 在这个过程中可能会遇到一些 warning，可能是一些统计量没 load 成功之类的，一般问题不大。
 
+
+
+
 原始帖子：https://discuss.megengine.org.cn/t/topic/1243
